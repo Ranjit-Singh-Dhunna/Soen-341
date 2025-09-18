@@ -1,4 +1,4 @@
-# Githubers-SOEN341_Project_F25
+# githubers-SOEN341_Project_F25
 
 **Team Info:**
 - Gunkeet Mutiana 40226566 keetsm1
